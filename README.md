@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Soft
 - Awarded full scholarship by Manchester Codes for demonstrating passion for tech
 
 ### ✔️ Actualmente estoy aprendiendo
-- 
+- NodeJS
 - ReactJS
 
 ### 👩‍💻 I'm working on
@@ -21,6 +21,17 @@ Although, I think I'll wait to learn React before I build the website.
 - Build 30+ projects 
 - Become skilled in JavaScript
 - Complete coding bootcamp by October 2020
+
+### 	🖥️ Conocimientos y herramientas para desarrollo web y diseño
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - Git
+  - GitHub
+  - Figma
+  - Adobe XD
+  - Midjourney y leonardo.ai: para la generación de imágenes a través de la IA
 
 ### 🌴 Fun facts
 - I blog. About food. Recipes and stuff. 
