@@ -1,26 +1,18 @@
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
+<img src="https://raw.githubusercontent.com/toby5599/toby5599/main/imágenes/header.png" width="100%" height="300" />
+<br>
+Bievenido a mi GitHub! Mi nombre es Tobías Benitez, y soy un desarrollador web especializado en páginas de restaurantes y cafeterías aunque puedo trabajar para otros nichos. Mi página web es .... . Tengo una amplia experiencia en el diseño y desarrollo de sitios web de alta calidad y con una estética atractiva, que se adapta a las necesidades y requerimientos de cada cliente.
 <br>
 <br>
-Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Manchester Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
-
-### ⚡ Relevant achievements
-- Awarded 1st place on Code First Girl's Web Dev course
-- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
-- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
+Mi objetivo principal es ayudar a las empresas gastronómicas a tener una presencia en línea sólida y efectiva, mediante la creación de una página web personalizada y adaptada a su marca y estilo. Desde el diseño de la interfaz hasta la programación y el mantenimiento del sitio, me aseguro de que cada detalle sea perfecto para que la experiencia del usuario sea la mejor posible.
+<br>
+<br>
+Como desarrollador web, tengo un conocimiento profundo de los lenguajes de programación y las tecnologías necesarias para crear sitios web modernos y eficientes. Además, tengo experiencia en la integración de sistemas de pago en línea, menús digitales y otras herramientas esenciales para la gestión de restaurantes y cafeterías.
+<br><br>
+Si estás buscando un desarrollador web que pueda ayudarte a llevar tu negocio gastronómico al siguiente nivel, no dudes en contactarme. Estoy aquí para ayudarte a crear una página web única y efectiva que refleje la esencia de tu marca y atraiga a más clientes a tu restaurante o cafetería.
 
 ### ✔️ Actualmente estoy aprendiendo
 - NodeJS
 - ReactJS
-
-### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
-
-### 💡 Goals for 2020
-- Complete #100DaysOfCode challenge
-- Build 30+ projects 
-- Become skilled in JavaScript
-- Complete coding bootcamp by October 2020
 
 ### 	🖥️ Conocimientos y herramientas para desarrollo web y diseño
   - HTML
@@ -31,18 +23,11 @@ Although, I think I'll wait to learn React before I build the website.
   - GitHub
   - Figma
   - Adobe XD
-  - Midjourney y leonardo.ai: para la generación de imágenes a través de la IA
+  - Midjourney y Leonardo.ai: para la generación de imágenes utilizando inteligencia artificial.
 
-### 🌴 Fun facts
-- I blog. About food. Recipes and stuff. 
-- I will speak German fluently in 5 months or so.
-
-### ☕ Get in touch
+### ☕ Contacto
 - LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
-- Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
-- Website: coming soon
-- Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
+- Website: 
 <br>
-![JavaScript](ruta-del-archivo-de-icono-en-tu-repositorio)
 <br>
-From Juel07 (https://github.com/Juel07)
+From toby559 (https://https://github.com/toby5599)
