@@ -1,13 +1,36 @@
-<h1 align="center">Hola, mi nombre es Tobías Benitez</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
+<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
+<br>
+<br>
+Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Manchester Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
 
-- 🌱 Actualmente estoy **aprendiendo todo lo relacionado a la base de datos.**
+### ⚡ Relevant achievements
+- Awarded 1st place on Code First Girl's Web Dev course
+- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
+- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
 
-- 📫 How to reach me **contacto.tobiasbenitez@gmail.com**
+### ✔️ Actualmente estoy aprendiendo
+- 
+- ReactJS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 👩‍💻 I'm working on
+- Building projects and my portfolio website. 
+Although, I think I'll wait to learn React before I build the website.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 💡 Goals for 2020
+- Complete #100DaysOfCode challenge
+- Build 30+ projects 
+- Become skilled in JavaScript
+- Complete coding bootcamp by October 2020
+
+### 🌴 Fun facts
+- I blog. About food. Recipes and stuff. 
+- I will speak German fluently in 5 months or so.
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
+- Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
+- Website: coming soon
+- Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
+<br>
+<br>
+From Juel07 (https://github.com/Juel07)
