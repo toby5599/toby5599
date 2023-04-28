@@ -32,5 +32,6 @@ Although, I think I'll wait to learn React before I build the website.
 - Website: coming soon
 - Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
 <br>
+![JavaScript](ruta-del-archivo-de-icono-en-tu-repositorio)
 <br>
 From Juel07 (https://github.com/Juel07)
