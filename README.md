@@ -11,14 +11,15 @@ Como desarrollador web, tengo un conocimiento profundo de los lenguajes de progr
 Si estás buscando un desarrollador web que pueda ayudarte a llevar tu negocio gastronómico al siguiente nivel, no dudes en contactarme. Estoy aquí para ayudarte a crear una página web única y efectiva que refleje la esencia de tu marca y atraiga a más clientes a tu restaurante o cafetería.
 
 ### ✔️ Actualmente estoy aprendiendo
-- NodeJS
-- ReactJS
+- Base de datos
+- Machine learning
 
 ### 	🖥️ Conocimientos y herramientas para desarrollo web y diseño
   - HTML
   - CSS
   - JavaScript
   - PHP
+  - Python
   - Git
   - GitHub
   - Figma
@@ -26,7 +27,7 @@ Si estás buscando un desarrollador web que pueda ayudarte a llevar tu negocio g
   - Midjourney y Leonardo.ai: para la generación de imágenes utilizando inteligencia artificial.
 
 ### ☕ Contacto
-- LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/tob%C3%ADas-benitez-aaa464274/">Tobías Benitez</a>
 - Website: 
 <br>
 <br>
