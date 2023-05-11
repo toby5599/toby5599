@@ -18,6 +18,8 @@ Si estás buscando un desarrollador web que pueda ayudarte a llevar tu negocio g
   - HTML
   - CSS
   - JavaScript
+  - Reactjs
+  - Typescript
   - PHP
   - Python
   - Git
@@ -28,7 +30,7 @@ Si estás buscando un desarrollador web que pueda ayudarte a llevar tu negocio g
 
 ### ☕ Contacto
 - LinkedIn: <a href = "https://www.linkedin.com/in/tob%C3%ADas-benitez-aaa464274/">Tobías Benitez</a>
-- Website: 
+- Website: tobiasbenitez.online
 <br>
 <br>
 From toby559 (https://https://github.com/toby5599)
