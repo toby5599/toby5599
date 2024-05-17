@@ -11,10 +11,12 @@ Como desarrollador web, tengo un conocimiento profundo de los lenguajes de progr
 Si estás buscando un desarrollador web que pueda ayudarte a llevar tu negocio gastronómico al siguiente nivel, no dudes en contactarme. Estoy aquí para ayudarte a crear una página web única y efectiva que refleje la esencia de tu marca y atraiga a más clientes a tu restaurante o cafetería.
 
 ### ✔️ Actualmente estoy aprendiendo
-- Base de datos
+- Machine learning
 - Machine learning
 
 ### 	🖥️ Conocimientos y herramientas para desarrollo web y diseño
+  - Python
+  - 
   - HTML
   - CSS
   - JavaScript
