@@ -12,26 +12,23 @@ Si estás buscando un desarrollador web que pueda ayudarte a llevar tu negocio g
 
 ### ✔️ Actualmente estoy aprendiendo
 - Machine learning
-- Machine learning
+- Herramientas de la nube
 
 ### 	🖥️ Conocimientos y herramientas para desarrollo web y diseño
   - Python
-  - 
+  - SQL
+  - Power BI
+  - Excel
   - HTML
   - CSS
   - JavaScript
-  - Reactjs
-  - Typescript
   - PHP
-  - Python
   - Git
   - GitHub
   - Figma
-  - Adobe XD
-  - Midjourney y Leonardo.ai: para la generación de imágenes utilizando inteligencia artificial.
 
 ### ☕ Contacto
-- LinkedIn: <a href = "https://www.linkedin.com/in/tob%C3%ADas-benitez-aaa464274/">Tobías Benitez</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/tobías-benitez/">Tobías Benitez</a>
 - Website: tobiasbenitez.online
 <br>
 <br>
