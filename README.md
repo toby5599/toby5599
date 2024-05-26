@@ -10,21 +10,22 @@ Me llamo Tobías Benítez. Soy analista de datos y desarrollador web, especializ
 
 
 ### ✔️ Actualmente estoy aprendiendo
-- Machine learning
-- Herramientas de la nube
+- Machine Learning
+- Herramientas de la Nube
 
-### 	🖥️ Conocimientos y herramientas para desarrollo web y diseño
-  - Python
-  - SQL
-  - Power BI
-  - Excel
-  - HTML
-  - CSS
-  - JavaScript
-  - PHP
+### 	🖥️ Conocimientos en Análisis de Datos
+  - Lenguajes de progrmacion: Python, SQL (MySQL)
+  - Herramientas de Visualización: Power BI, Tableau
+  - Software de Productividad: Excel
+
+### 🖥️ Conociminetos en Desarrollo Web
+  - Lenguajes y Tecnologías: HTML, CSS, JavaScript, PHP
+  - Herramientas de Diseño: Figma
+
+### Otros Conocimientos
   - Git
   - GitHub
-  - Figma
+
 
 ### ☕ Contacto
 - LinkedIn: <a href = "https://www.linkedin.com/in/tobías-benitez/">Tobías Benitez</a>
