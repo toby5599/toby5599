@@ -8,6 +8,13 @@ Me llamo Tobías Benítez. Soy analista de datos y desarrollador web, especializ
 Estudié Matemáticas en el Instituto Superior de Formación Docente N°106, donde me formé para ser profesor. Mi formación en matemáticas ha sido importante para mi profesión como analista de datos, ya que me proporcionó una base sólida en análisis estadístico, lógica y resolución de problemas. Además, adquirí habilidades blandas como la comunicación, que también son esenciales en el análisis de datos.
 
 
+## Proyectos importantes
+### Proyecto de Predicción de Ventas con Diferentes Modelos (2024)
+Desarrollé un proyecto de predicción de ventas en Python que incluyó un análisis exploratorio de datos. Implementé varios modelos predictivos como SARIMA, regresiones lineales polinómicas, método de Fourier y AdaBoost.
+### Proyecto de Análisis Exploratorio de Datos y Dashboard en Power BI (2024)
+Realicé un análisis exploratorio de datos, identificando patrones en ventas, ganancias y descuentos. Creé un dashboard interactivo con Power BI para visualizar tendencias y facilitar la toma de decisiones estratégicas.
+### Proyecto de Limpieza de Datos Utilizando MySQL (2023)
+Llevé a cabo la limpieza y preparación de datos utilizando MySQL, asegurando la calidad y coherencia para análisis posteriores.
 
 ### ✔️ Actualmente estoy aprendiendo
 - Machine Learning
