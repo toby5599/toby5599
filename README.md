@@ -2,7 +2,6 @@
 
 ## Sobre mí
 ### Analista de Datos | Analista de Negocios | Desarrollador Web
-<br>
 Me llamo Tobías Benítez. Soy analista de datos y desarrollador web, especializado en análisis predictivo con Python. También tengo experiencia en la visualización de datos mediante Power BI, creando informes y dashboards interactivos y comprensibles.
 <br>
 <br>
