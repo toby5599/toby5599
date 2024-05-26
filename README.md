@@ -2,7 +2,7 @@
 
 ## Sobre mí
 <br>
-Bievenido a mi GitHub! Mi nombre es Tobías Benitez, y soy un desarrollador web especializado en páginas de restaurantes y cafeterías aunque puedo trabajar para otros nichos. Mi página web es https://tobiasbenitez.online/ Tengo una amplia experiencia en el diseño y desarrollo de sitios web de alta calidad y con una estética atractiva, que se adapta a las necesidades y requerimientos de cada cliente.
+Me llamo Tobías Benítez. Soy analista de datos y desarrollador web, especializado en análisis predictivo con Python. También tengo experiencia en la visualización de datos mediante Power BI, creando informes y dashboards interactivos y comprensibles.
 <br>
 <br>
 Mi objetivo principal es ayudar a las empresas gastronómicas a tener una presencia en línea sólida y efectiva, mediante la creación de una página web personalizada y adaptada a su marca y estilo. Desde el diseño de la interfaz hasta la programación y el mantenimiento del sitio, me aseguro de que cada detalle sea perfecto para que la experiencia del usuario sea la mejor posible.
