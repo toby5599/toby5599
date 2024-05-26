@@ -15,12 +15,12 @@ Me llamo Tobías Benítez. Soy analista de datos y desarrollador web, especializ
 
 ### 	🖥️ Conocimientos en Análisis de Datos
   - **Lenguajes de progrmacion**: Python, SQL (MySQL)
-  - Herramientas de Visualización: Power BI, Tableau
-  - Software de Productividad: Excel
+  - **Herramientas de Visualización**: Power BI, Tableau
+  - **Software de Productividad**: Excel
 
 ### 🖥️ Conociminetos en Desarrollo Web
-  - Lenguajes y Tecnologías: HTML, CSS, JavaScript, PHP
-  - Herramientas de Diseño: Figma
+  - **Lenguajes y Tecnologías**: HTML, CSS, JavaScript, PHP
+  - **Herramientas de Diseño**: Figma
 
 ### Otros Conocimientos
   - Git
