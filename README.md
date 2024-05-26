@@ -16,6 +16,8 @@ Realicé un análisis exploratorio de datos, identificando patrones en ventas, g
 ### Proyecto de Limpieza de Datos Utilizando MySQL (2023)
 Llevé a cabo la limpieza y preparación de datos utilizando MySQL, asegurando la calidad y coherencia para análisis posteriores.
 
+---
+
 ### ✔️ Actualmente estoy aprendiendo
 - Machine Learning
 - Herramientas de la Nube
