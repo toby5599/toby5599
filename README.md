@@ -1,4 +1,4 @@
-<img src="https://github.com/toby5599/toby5599/assets/131751919/6c862e8e-56c1-496d-b4a9-152114acc8df" width="100%" height="300" />
+<img src="https://github.com/toby5599/toby5599/assets/131751919/8f5f1532-1b4d-4013-9521-1a945473c6c5" width="100%" height="300" />
 
 ## Sobre mí
 ### Analista de Datos | Analista de Negocios | Desarrollador Web
