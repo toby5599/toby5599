@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/toby5599/toby5599/main/imágenes/header.png" width="100%" height="300" />
 
 ## Sobre mí
-
 <br>
 Bievenido a mi GitHub! Mi nombre es Tobías Benitez, y soy un desarrollador web especializado en páginas de restaurantes y cafeterías aunque puedo trabajar para otros nichos. Mi página web es https://tobiasbenitez.online/ Tengo una amplia experiencia en el diseño y desarrollo de sitios web de alta calidad y con una estética atractiva, que se adapta a las necesidades y requerimientos de cada cliente.
 <br>
