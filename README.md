@@ -14,7 +14,7 @@ Me llamo Tobías Benítez. Soy analista de datos y desarrollador web, especializ
 - Herramientas de la Nube
 
 ### 	🖥️ Conocimientos en Análisis de Datos
-  - Lenguajes de progrmacion: Python, SQL (MySQL)
+  - **Lenguajes de progrmacion**: Python, SQL (MySQL)
   - Herramientas de Visualización: Power BI, Tableau
   - Software de Productividad: Excel
 
