@@ -1,6 +1,6 @@
 <img src="https://github.com/toby5599/toby5599/assets/131751919/8f5f1532-1b4d-4013-9521-1a945473c6c5" width="100%" height="300" />
 
-[Portafolio Web](https://portafolio-tobias-benitez.netlify.app/))
+[Portafolio Web](https://portafolio-tobias-benitez.netlify.app/)
 
 ## Sobre mí
 ### Analista de Datos | Analista de Negocios | Desarrollador Web
