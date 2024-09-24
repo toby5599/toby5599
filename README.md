@@ -1,4 +1,4 @@
-<img src="https://github.com/toby5599/toby5599/assets/131751919/8f5f1532-1b4d-4013-9521-1a945473c6c5" width="100%" height="300" />
+<img src="https://github.com/user-attachments/assets/cd85819f-65ab-4cf5-864f-d08a59dc7acd" width="100%" height="300" />
 
 [Portafolio Web](https://portafolio-tobias-benitez.netlify.app/)
 
